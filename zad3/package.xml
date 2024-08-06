@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>zad3</name>
+  <version>0.0.0</version>
+  <description>The zad3 package</description>
+
+  <author email="xsykorka@stuba.sk">Marek Sykorka</author>
+  <maintainer email="xsykorka@stuba.sk">Marek Sykorka</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>eigen_conversions</depend>
+  <depend>moveit_ros_planning_interface</depend>
+
+  <export>
+  </export>
+</package>

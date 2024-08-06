@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="zad3" type="zad3_cartesian_node" name="cartesian_trajectory_node"/>
+    <include file="$(find zad3)/launch/zad3_core.launch"/>
+</launch>
